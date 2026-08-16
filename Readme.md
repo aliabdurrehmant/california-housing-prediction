@@ -19,7 +19,7 @@ Built-in scikit-learn California housing dataset (20,640 rows, 8 features).
 | Linear Regression + engineered features | 0.66 |
 | Random Forest + engineered features | 0.81 |
 
-![Model comparison chart](C:\Users\aliab\Documents\PYTHON PROJECTS\PythonProject\ML project 1..png)
+![Model comparison chart](model_comparison.png)
 
 ## Challenges I ran into
 - **Isolating what actually caused an improvement** — when I changed both the
