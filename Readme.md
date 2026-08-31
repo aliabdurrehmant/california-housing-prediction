@@ -46,3 +46,4 @@ learning the basics. The pandas/scikit-learn work reflects more practice.
 - Feature scaling for models sensitive to it
 - Try additional models (e.g. Gradient Boosting)
 - More visualizations (e.g. predicted vs actual scatter plot)
+-                                                                                                PROJECT BY ALI ABDUR REHMAN TARIQ
